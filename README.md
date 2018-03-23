@@ -1,3 +1,3 @@
 # ideasForMe
 Place for ideas to be in...
-Figuring them out is the begining.
+Figuring them out is the beginning.
